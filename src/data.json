@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPx2M9aSR3mW4anqUKrGkIVynhzOn-NWmUrRLECLO8pX0a92dG",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXakOMCU0I47LqSr_svc8nyMKB0i4tbV-N1EbjW84M-rsZ-f4eSg",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDXCnzf2pejE9f8YL5CN-hDBNa3hMAih1OyZ8NvhP3ga5e4tSjMg",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN858aLbFTDLEohf7Qtwb1ASoyv1blNJg6U8akEUHJKc5TLCVI",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVizDo1SwwJemxZiYRvI7SQVsFV4AuzlNAvZ7H-yT4yIUpBzNT",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "image": "https://images.vexels.com/media/users/3/146382/isolated/lists/81f266e0ff65ca64367cb99a89ea0d40-happy-pet-dog-cartoon.png",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "image": "https://images.vexels.com/media/users/3/144928/isolated/lists/ebbccaf76f41f7d83e45a42974cfcd87-dog-illustration.png",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "image": "https://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-11/256/dog-face.png",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAoVw7-GcQ7g4NToiw2mTY2xP9Fp4jSohh-xKF9V9jg_uUXMgn",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTezWWgKTdLN1KjnohaSVnanz6Rw8MlkgsK7tAVXUnAj6lNR298mw",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRqZG-WbN1NCkoVc97_vAhbN-mdQYrngdgzwtBaYQXAUvX5Zfo",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGQva7y0W1v0QHbeFp_crSCS6ldZrZYiYwgRdX35QuyQ0pYaov",
+    "clicked": false
+  }
+]
